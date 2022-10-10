@@ -7,7 +7,7 @@ opencv-python==4.5.1.48
 opencv-python-headless==4.5.1.48
 Pillow==8.2.0
 starlette==0.14.2
-tensorflow==2.5.0rc3
+tensorflow==2.5.0
 typing==3.7.4.3
 typing-extensions==3.7.4.3
 uvicorn==0.15.0
